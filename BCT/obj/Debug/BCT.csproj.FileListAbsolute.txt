@@ -1,0 +1,13 @@
+c:\users\poyser\documents\visual studio 2012\Projects\BCT\BCT\bin\Debug\BCT.exe.config
+C:\Users\Poyser\Documents\Visual Studio 2012\Projects\BCT\BCT\bin\Debug\BCT.exe
+C:\Users\Poyser\Documents\Visual Studio 2012\Projects\BCT\BCT\bin\Debug\BCT.pdb
+C:\Users\Poyser\Documents\Visual Studio 2012\Projects\BCT\BCT\obj\Debug\BCT.csprojResolveAssemblyReference.cache
+C:\Users\Poyser\Documents\Visual Studio 2012\Projects\BCT\BCT\obj\Debug\MainWindow.baml
+C:\Users\Poyser\Documents\Visual Studio 2012\Projects\BCT\BCT\obj\Debug\MainWindow.g.cs
+C:\Users\Poyser\Documents\Visual Studio 2012\Projects\BCT\BCT\obj\Debug\App.g.cs
+C:\Users\Poyser\Documents\Visual Studio 2012\Projects\BCT\BCT\obj\Debug\BCT_MarkupCompile.cache
+C:\Users\Poyser\Documents\Visual Studio 2012\Projects\BCT\BCT\obj\Debug\BCT.g.resources
+C:\Users\Poyser\Documents\Visual Studio 2012\Projects\BCT\BCT\obj\Debug\BCT.Properties.Resources.resources
+C:\Users\Poyser\Documents\Visual Studio 2012\Projects\BCT\BCT\obj\Debug\BCT.csproj.GenerateResource.Cache
+C:\Users\Poyser\Documents\Visual Studio 2012\Projects\BCT\BCT\obj\Debug\BCT.exe
+C:\Users\Poyser\Documents\Visual Studio 2012\Projects\BCT\BCT\obj\Debug\BCT.pdb
